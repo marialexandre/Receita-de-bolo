@@ -1,0 +1,48 @@
+body {
+    background-color:#0e2a5d;
+    color: #8b3b9f;
+    background-image: url(https://img.freepik.com/fotos-gratis/flores-cosmos_1373-83.jpg?w=740&t=st=1698879659~exp=1698880259~hmac=4df48f59c7dc310dbaf67a9586b2111bf0cf0ea70bda3129838b0b8d7eebf5db);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+
+h1:hover {
+    color: #ff4ec0;
+    font-size: 60px;
+    transition-duration: 0.5s;
+    transform: scale(1.1);
+}
+
+#titulo2{
+    font-size: 50px;
+    background-color:#8b3b9f;
+    color: whitesmoke;
+}
+
+h2 {
+    color:#8b3b9f;
+}
+
+ul:hover {
+    color:#f13cb8;
+    transition-duration: 1s;
+    transform: scale(1,1.20);
+}
+
+ol:hover {
+    color:#f13cb8;
+    transition-duration: 1s;
+    transform: scale(1,1.20);
+}
+
+img:hover {
+    transition-duration: 1s;
+    transform: scale(1,1.20) rotate(360deg);
+}
+
+iframe:hover {
+    transition-duration: 1s;
+    transform: scale(1,1.20) rotate(-360deg);
+    
+}
